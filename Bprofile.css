@@ -5,7 +5,7 @@ body {
 }
 .navbar {
     background: #6ab446;
-    font-family: Pacifico;
+    font-family: Bold;
 }
 
 .nav-link, .navbar-brand {
@@ -102,7 +102,7 @@ body {
     background-color: #222;
     color: #ccc;
     padding: 60px 0 30px;
-    font-family: Dancing Script;
+    font-family: Bold;
 }
 
 .footer-copyright {
