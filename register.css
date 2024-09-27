@@ -81,7 +81,7 @@ body {
     margin: 0 auto;
     border-radius: 0.3em;
     background-color: #ecf5d4;
-    font-family: Dancing Script;
+    font-family: sans-serif;
 }
 
 *[role="form"] h2 { 
